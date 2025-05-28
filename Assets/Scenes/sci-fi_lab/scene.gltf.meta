@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 8f426b1523f238048aac6d05d7fd7212
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Scenes\sci-fi_lab\scene.bin
+    assetPath: Assets\Scenes\sci-fi_lab\scene.bin
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sciana_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_transmission.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Panel_sterowania_transmission.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Podoga2_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Podoga2_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Podoga2_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Podoga2_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Podoga2_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Podoga2_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\Podoga2_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\Podoga2_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_DUZA_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_MAA_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SCIANA_PODLOGA_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SZYBKA_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SZYBKA_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SZYBKA_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SZYBKA_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\SZYBKA_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\SZYBKA_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\drzwi_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\drzwi_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\drzwi_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\drzwi_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\drzwi_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\drzwi_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\drzwi_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\drzwi_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duz_soik_szybka_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duzy_soik_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duzy_soik_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duzy_soik_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duzy_soik_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duzy_soik_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duzy_soik_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\duzy_soik_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\duzy_soik_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\panel_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\panel_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\panel_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\panel_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\panel_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\panel_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\panel_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\panel_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\panel3_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\panel3_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\panel3_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\panel3_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\panel3_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\panel3_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_podloga_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_glowna_szybka_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_gwna_baza_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_przod_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_przod_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_przod_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_przod_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_przod_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_przod_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_przod_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_przod_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_tylna_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_tylna_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_tylna_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_tylna_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_tylna_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_tylna_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\rura_tylna_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\rura_tylna_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\sciana3_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\sciana3_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\sciana3_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\sciana3_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\sciana3_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\sciana3_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\stolik_szybka_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_body_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_body_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_body_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_body_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_body_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_body_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_body_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_body_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szyba_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szafka_szybka_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\szyba_przegroda_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\soik_may_szybka_normal.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\tablica_baseColor.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\tablica_baseColor.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\tablica_metallicRoughness.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\tablica_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\tablica_emissive.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\tablica_emissive.png
+  - type: 1
+    originalUri: Assets\Scenes\sci-fi_lab\textures\tablica_normal.png
+    assetPath: Assets\Scenes\sci-fi_lab\textures\tablica_normal.png
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_emissive_strength
+  - type: 2
+    code: 30
+    messages: []
