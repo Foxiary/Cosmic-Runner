@@ -1,0 +1,1 @@
+This repository only contains asset files from the project. For a full view of this, please visit: https://vlylm-my.sharepoint.com/:f:/g/personal/foxiary_vlylm_onmicrosoft_com/EuIUVCs859xLmXPWa42uyecBkYtdnLKP6uEwcXk9Ey2sDQ?e=JLhebn
